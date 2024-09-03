@@ -1,5 +1,8 @@
 # Planet Detection and Background Removal
 
+![Cropped Planet Image](cropped_image.jpg)
+
+
 This project provides a set of Python scripts designed to detect planets in images, remove the background, and save the processed images. The planets in the images are assumed to be circular with a black background. The scripts utilize OpenCV for image processing tasks such as circle detection, masking, and cropping.
 
 ## Table of Contents
